@@ -17,8 +17,7 @@ Use pip install to install following libraries: <br/>
   <li>numpy,</li>
   <li>nibabel,</li>
   <li>matplotlib,</li>
-  <li>torch,</li>
-  <li>PIL.</li>
+  <li>torch.</li>
 </ul>
 
  
